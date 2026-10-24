@@ -1,0 +1,14 @@
+# ──────────────────────────────────────────────
+# Project      : Password Strength Checker
+# File         : Sakshi_passwordstrengthchecker.py
+# Author       : Sakshi
+# ──────────────────────────────────────────────
+
+# External dependency (install with: pip install -r requirements.txt)
+flask>=3.0.0
+
+# ──────────────────────────────────────────────
+# Standard library modules (built into Python — no install needed)
+#   re    — regex pattern matching for password rule evaluation
+#   math  — math.log2() for entropy calculation
+# ──────────────────────────────────────────────
